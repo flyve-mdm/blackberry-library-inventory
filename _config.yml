@@ -1,9 +1,9 @@
 title: blackberry library inventory
 email: ml-flyvemdm@teclib.com
 twitter: flyvemdm
-baseurl: "/blackberry-library-inventory"
+baseurl: "/blackberry-inventory-library"
 url: "http://flyve.org"   
-image: http://flyve.org/blackberry-library-inventory/images/logo2.png
+image: http://flyve.org/blackberry-inventory-library/images/logo2.png
 
 # Build settings
 markdown: kramdown
@@ -13,7 +13,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-repository: flyve-mdm/blackberry-library-inventory
+repository: flyve-mdm/blackberry-inventory-library
 
 sass:
     style: compressed
