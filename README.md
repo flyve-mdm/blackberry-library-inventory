@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/flyve-mdm/blackberry-inventory-library.svg?&label=License)](https://github.com/flyve-mdm/blackberry-inventory-library/blob/master/LICENSE.md)
 [![Follow twitter](https://img.shields.io/twitter/follow/FlyveMDM.svg?style=social&label=Twitter&style=flat-square)](https://twitter.com/FlyveMDM)
 [![Telegram Community](https://img.shields.io/badge/Telegram-Community-blue.svg)](https://t.me/flyvemdm)
-[![Telegram Contributors](https://img.shields.io/badge/Telegram-Contributors-blue.svg)](https://t.me/flyvemdmdev)
 [![Project Status: Concept](http://www.repostatus.org/badges/latest/concept.svg)](http://www.repostatus.org/#concept)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![GitHub release](https://img.shields.io/github/release/flyve-mdm/flyve-mdm-blackberry-inventory.svg)](https://github.com/flyve-mdm/flyve-mdm-blackberry-inventory/releases)
@@ -53,7 +52,7 @@ guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our i
 ## Contact
 
 For notices about major changes and general discussion of Flyve MDM development, subscribe to the [/r/FlyveMDM](http://www.reddit.com/r/FlyveMDM) subreddit.
-You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm).
+You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm) or [@flyvemdm on Telegram](https://t.me/flyvemdm)
 Ping me @rafaelje in the IRC chatroom if you get stuck.
 
 ## Copying
