@@ -5,6 +5,7 @@ published: true
 title: How it works
 permalink: howtos/how-it-works
 description: A brief introduction
+category: user
 ---
 The Blackberry Inventory Library helps you to create a complete inventory of your Blackberry device: both hardware and software informations are collected. You get the data about battery, memory, networks, etc., in a beautiful XML as protocol compatible with Fusion Inventory for GLPI.
 
